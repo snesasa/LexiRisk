@@ -1,0 +1,29 @@
+MASTER CLOUD SOFTWARE AND SERVICES AGREEMENT
+
+This Master Cloud Software and Services Agreement (the "Agreement") is entered into as of January 15, 2026 ("Effective Date"), by and between OmniCloud Technologies Inc., a Delaware corporation ("Provider"), and Global Logistics Enterprises LLC, a Nevada limited liability company ("Customer").
+
+1. SCOPE OF SERVICES & LICENSE GRANT
+1.1 Provider hereby grants to Customer a non-exclusive, non-transferable, revocable license to access the OmniCloud Platform during the Term solely for internal business operations. Customer shall not sublicense, reverse engineer, or permit any unauthorized third-party entity to access the software.
+
+2. TERM AND AUTOMATIC RENEWAL
+2.1 The initial term of this Agreement shall commence on the Effective Date and shall continue for three (3) years. 
+2.2 This Agreement shall automatically renew for successive terms of two (2) years each, unless Customer provides written notice of non-renewal to Provider at least ninety (90) days prior to the expiration of the then-current term. Provider reserves the right to increase fees by up to 15% upon each renewal at its sole discretion.
+
+3. TERMINATION FOR CONVENIENCE
+3.1 Provider may terminate this Agreement without cause at any time upon five (5) days written notice to Customer. In the event of such termination, Customer shall not be entitled to any refund of prepaid subscription fees, and all outstanding payments for the remaining term shall accelerate and become immediately payable.
+
+4. INTELLECTUAL PROPERTY OWNERSHIP
+4.1 Customer agrees that all inventions, custom code, software enhancements, documentation, workflows, and deliverables developed under or in connection with this Agreement shall be the sole and exclusive property of Provider. To the extent Customer acquires any rights therein, Customer hereby irrevocably assigns all right, title, and interest, including all patent, trademark, and copyright rights, to Provider in perpetuity without additional compensation.
+
+5. RESTRICTIVE COVENANTS AND NON-COMPETE
+5.1 During the term of this Agreement and for a period of two (2) years following any termination or expiration hereof, Customer and its affiliates shall not directly or indirectly engage in, invest in, consult for, or develop any software product or service that competes with the Provider's cloud platform anywhere in North America or Europe.
+
+6. UNCAPPED LIABILITY AND INDEMNIFICATION
+6.1 Customer agrees to defend, indemnify, and hold harmless Provider, its officers, directors, and agents against any and all claims, liabilities, losses, damages, costs, and expenses (including attorneys' fees) arising out of or related to Customer's use of the Platform or breach of this Agreement.
+6.2 NOTWITHSTANDING ANYTHING TO THE CONTRARY, CUSTOMER'S LIABILITY UNDER THIS AGREEMENT SHALL BE UNLIMITED AND UNCAPPED, AND CUSTOMER SHALL BE LIABLE FOR ALL DIRECT, INDIRECT, SPECIAL, INCIDENTAL, AND CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF REVENUE OR BUSINESS INTERRUPTION.
+
+7. CHANGE OF CONTROL & ASSIGNMENT
+7.1 Customer shall not assign or transfer this Agreement without the prior written consent of Provider. In the event Customer undergoes any Change of Control, merger, acquisition, or sale of more than 20% of its equity, Provider may terminate this Agreement immediately and require payment of liquidated damages in the amount of $250,000.
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+8.1 This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to principles of conflicts of law. Any legal proceeding shall be brought exclusively in the courts of New Castle County, Delaware.

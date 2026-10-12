@@ -1,0 +1,23 @@
+SOFTWARE CONSULTING AND BESPOKE DEVELOPMENT AGREEMENT
+
+This Consulting and Development Agreement ("Agreement") is entered into as of April 5, 2026, by and between FinTech Core Systems Corp. ("Client") and DevCraft Solutions Ltd. ("Consultant").
+
+1. SERVICES AND DELIVERABLES
+Consultant shall develop and deliver custom transaction settlement software modules ("Deliverables") in accordance with project milestones set forth in Schedule A.
+
+2. WORK FOR HIRE AND OVERBROAD INTELLECTUAL PROPERTY ASSIGNMENT
+2.1 All work product, software scripts, custom algorithms, pre-existing libraries, toolkits, and inventions developed or utilized by Consultant in connection with this Agreement shall be deemed "work made for hire" and shall become the sole and exclusive property of Client.
+2.2 To the extent any rights do not vest automatically in Client, Consultant hereby irrevocably and perpetually assigns and transfers all right, title, and interest worldwide to Client without any royalty or reservation of background IP rights.
+
+3. UNLIMITED WARRANTY AND ONEROUS REMEDIES
+3.1 Consultant warrants that Deliverables shall operate free of all defects, errors, or security vulnerabilities in perpetuity.
+3.2 In the event of any defect discovered at any time, Consultant shall immediately remediate such defect at its sole expense within twenty-four (24) hours, failing which Client may retain a third party and charge all costs back to Consultant without limitation.
+
+4. RESTRICTIVE EMPLOYEE NON-SOLICIT
+4.1 During the term and for three (3) years thereafter, Consultant shall not recruit, solicit, or employ any personnel or contractor of Client anywhere globally.
+
+5. PAYMENT AND EXPENSE REIMBURSEMENT
+5.1 Client shall pay invoices within sixty (60) days of receipt, provided that Client reserves the right to withhold payments in its sole discretion if it deems any milestone unsatisfactory.
+
+6. ABSENCE OF LIABILITY CEILING
+6.1 Neither party's liability under Section 2 (IP Assignment) or Section 3 (Warranties) shall be subject to any financial cap or limitation of consequential damages whatsoever.
