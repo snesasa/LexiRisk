@@ -1,4 +1,4 @@
-# ⚖️ LexiRisk AI: Contract Clause Risk Analyzer with Future Scenario Detection
+#  LexiRisk AI: Contract Clause Risk Analyzer with Future Scenario Detection
 
 An intelligent, privacy-preserving legal contract intelligence platform designed to identify high-risk, ambiguous, incomplete, and conflicting clauses in commercial agreements. 
 
@@ -6,7 +6,7 @@ Trained and calibrated on the **Contract Understanding Atticus Dataset (CUAD)** 
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 1. **41-Category CUAD Transformer Classification**:
    - Classifies clauses into official CUAD categories (e.g., *Uncapped Liability, Non-Compete, Exclusivity, Termination for Convenience, IP Ownership Assignment, Change of Control, Liquidated Damages, Most Favored Nation*).
@@ -41,7 +41,7 @@ Trained and calibrated on the **Contract Understanding Atticus Dataset (CUAD)** 
 
 ---
 
-## 🏛️ System Architecture
+##  System Architecture
 
 ```mermaid
 flowchart TD
@@ -58,7 +58,7 @@ flowchart TD
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Requirements
 - Python 3.10+ (PyTorch 2.1+)
@@ -85,7 +85,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 d:/NLP Project/
